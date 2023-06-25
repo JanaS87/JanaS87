@@ -2,7 +2,7 @@
 
 ## Glad you got lost on my little GitHub page😄. 
 
-Here you can find all current projects about web development. Since June 2023 I'm part of the Web Development Bootcamp and I'm really looking forward to all the new topics I'll learn and put into practice there.
+Here you can find all current projects about web development. Since June 2023 I'm part of the Web Development Bootcamp by [neue Fische](https://www.neuefische.de/bootcamp/web-development) and I'm really looking forward to all the new topics I'll learn and put into practice there.
 <br/>
 <br/>
 ## My Tech-Stack
