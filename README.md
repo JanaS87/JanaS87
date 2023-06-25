@@ -1,4 +1,22 @@
 # Greetings! :wave:
-![Das Leben eines Entwicklers](https://github.com/JanaS87/JanaS87-/blob/main/main-qimg-0592150d9923e5b59827bf094f0c1c08-lq.jpeg)
 
-### It's all about exercises, successes and everything else that belongs to a future web developer.
+## Glad you got lost on my little GitHub page😄. 
+
+Here you can find all current projects about web development. Since June 2023 I'm part of the Web Development Bootcamp and I'm really looking forward to all the new topics I'll learn and put into practice there.
+<br/>
+<br/>
+## My Tech-Stack
+`C#`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `Java`\
+<br/>
+**To be continued..**
+<br/>
+<br/>
+## Some things about me: 
+
+- Listening to music
+- Reading
+- Playing computer games
+- Streaming
+- Taking care of my plants
+
+😅 I have a **love/hate** relationship with **Programming**
