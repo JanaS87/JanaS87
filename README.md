@@ -6,7 +6,7 @@ Here you can find all current projects about web development. Since June 2023 I'
 <br/>
 <br/>
 ## My Tech-Stack
-`C#`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `Java`\
+`C#`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `Java`, `Nextjs`\
 <br/>
 **To be continued..**
 <br/>
