@@ -7,7 +7,8 @@ I will be part of the Java Fullstack Developer Bootcamp in january and I´m look
 <br/>
 <br/>
 ## My Tech-Stack
-`C#`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `Java`, `Nextjs`, `PostgreSQL`, `Vue.js`\
+`C#`, `HTML`, `CSS`, `JavaScript`, `Node.js`, `React`, `MongoDB`, `Java`, `Nextjs`, `PostgreSQL`, `Vue.js`
+`git`\
 <br/>
 **To be continued..**
 <br/>
